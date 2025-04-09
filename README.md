@@ -1,16 +1,28 @@
-# instagram
+# 📸 Instagram - Dark/Flutter Project
 
-A new Flutter project.
+A beautifully crafted **Instagram clone** built using **Flutter**, featuring a sleek **dark mode UI**. This project is ideal for learning mobile app development with Flutter and exploring UI/UX design principles.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🔒 User authentication (Sign up, Sign in, Logout)
+- 🖼️ Post creation and display
+- ❤️ Like and comment functionality
+- 🧑‍🤝‍🧑 Follow/unfollow users
+- 🌓 Fully responsive dark mode UI
+- 📲 Smooth navigation and scroll behavior
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To run this project locally:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Android Studio or Visual Studio Code
+
+### Steps
+
+```bash
+git clone https://github.com/Arman-Gilani/instagram.git
+cd instagram
+flutter pub get
+flutter run
